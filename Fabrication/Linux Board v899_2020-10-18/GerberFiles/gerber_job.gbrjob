@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-10-19T02:57:00Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "Linux Board v899"
+        },
+        "Owner": "Danaan Metge <danaan.metge@gmail.com>",
+        "Size": {
+            "X": 81.28,
+            "Y": 49.53
+        }
+    }
+}
